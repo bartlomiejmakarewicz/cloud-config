@@ -1,4 +1,6 @@
 spring:
+  rabbitmq:
+    host: rabbit
   cloud:
     consul:
       host: consul
