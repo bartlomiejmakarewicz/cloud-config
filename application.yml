@@ -13,3 +13,4 @@ management:
       exposure:
         include:
           - bus-refresh
+          - health
